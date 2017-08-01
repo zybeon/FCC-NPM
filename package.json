@@ -1,0 +1,23 @@
+{
+  "name": "@vrpc/fcc",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp chalenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zybeon/FCC-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zybeon/FCC-NPM/issues"
+  },
+  "homepage": "https://github.com/zybeon/FCC-NPM#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
